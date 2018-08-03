@@ -1,0 +1,167 @@
+/*LOGIN FORM*/
+.bg-image{
+	background-image: url('../images/background.jpeg');
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	height: 650px;
+}
+.login-form-wrapper{
+	background-color: rgba(255,255,255,0.7);
+	padding: 20px;
+	margin:200px 0px;
+}
+.login-logo{
+	width: 100px;
+	display: block;
+	margin: auto;	
+}
+.homepage-header{
+	background-color: #030d5a;
+	padding: 150px 50px 50px 100px;
+	color: rgba(250,250,250,1);
+}
+.homepage-header-content{
+	font-size: 5rem;
+}
+.homepage-header-content h1 i{
+	color: #71adf8;
+	
+}
+.homepage-header-content h3{
+	color: #318cfd;
+	text-align: right;
+	margin-right: 100px;
+}
+.ncf-cover{
+	background-image: url('../images/cover.png');
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	height: 650px;
+}
+.ncf-cover1{
+	background-image: url('../images/cover1.png');
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	height: 650px;
+}
+.cover-photo{
+	background-image: url('../images/cover1.png');
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	border-radius: 5px 5px 0px 0px;
+	position: relative;
+	border: 1px solid rgba(0,0,0,0.8);
+}
+.black3{
+	height: 300px;
+	background-color: rgba(0,0,0,0.3);
+}
+.prof-pics{
+	position: absolute;
+	width: 150px;
+	height: 150px;
+	border: 1px solid rgba(0,0,0,0.07);
+	bottom: 0px;
+	left: 0px;
+	border-radius: 0px 10px 0px 0px;
+}
+.profile-names h3{
+	position: absolute;
+	color: #fff;
+	font-weight: bolder;
+	bottom: 40px;
+	left: 170px;
+}
+.profile-quote{
+	/*background-color: rgba(0,0,0,0.09);*/
+	/*padding: 10px 50px;*/
+	position: absolute;
+	bottom:20px;
+	left: 170px;
+}
+.profile-quote h5{
+	color: #fff;
+	font-style: italic;
+
+}
+.info-wrapper{
+	background-color: rgba(0,0,0,0.09);
+}
+.info-header{
+	padding: 10px 20px;
+}
+.info-header a{
+	padding: 10px 20px;
+	color: rgba(0,0,0,0.7);
+	font-weight: bolder;
+}
+.date-font{
+	font-size: 1.0rem;
+}
+.birth-wrap{
+	padding: 10px 20px;
+	background-color: rgba(0,0,0,0.5);
+	text-align: center;
+	border-right: 1px solid #fff;
+	color: #fff;
+	font-weight: bolder;
+}
+
+
+.info-content{
+	background-color: rgba(255,255,255,1);
+	padding: 	1px 70px;
+	border: 1px solid rgba(0,0,0,0.09);
+}
+.ministry-header{
+	padding: 5px 20px;
+	background-color: rgba(0,0,0,0.09);
+	/*border: 1px solid #fff;*/
+}
+.ministry-content{
+	padding: 10px 20px;
+	background-color: rgba(255,255,255,1);
+	border: 1px solid rgba(0,0,0,0.09);
+}
+.ministry-header p{
+	font-weight: bolder;
+	margin-top: 0px;
+}
+.ministry-wrapper{
+	padding-top: 0px;
+	position: relative;
+	margin-top: 43px;
+}
+.new-birth{
+	padding: 0px;
+}
+.ministry-top{
+	padding: 10px 30px;
+	background-color: #06a83b;
+	margin-bottom: 2px;
+}
+.ministry-top h4 a{
+	color: #fff;
+	font-weight: bolder;
+}
+.add-panel{
+	background-color: rgba(0,0,0,0.09);
+	padding: 5px 0px 50px 0px;
+	position: relative;
+	clear:both;
+}
+.add-wrap{
+	padding: 10px 20px;
+	background-color: orange;
+	text-align: center;
+	border-right: 1px solid #fff;
+	color: #fff;
+	font-weight: bolder;
+}
+.add-wrap a{
+	color: #fff;
+}
